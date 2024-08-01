@@ -1,7 +1,8 @@
 Backlog:
   ✔ Setup basic remix project with daisyui @done(24-08-01 10:18)
-  ☐ Write a simple proposal document
-    ☐ Push repository to GitHub
-    ☐ Configure GitHub integration with EraserIO
-    ☐ Document Initial Proposal
+  ✔ Write a simple proposal document @done(24-08-01 13:42)
+    ✔ Push repository to GitHub @done(24-08-01 10:23)
+    ✔ Configure GitHub integration with EraserIO @done(24-08-01 13:42)
+    ✔ Document Initial Proposal @done(24-08-01 13:42)
+  ☐ DevOps Setup
   ☐ Create a simple PoC on File upload to Amazon S3
